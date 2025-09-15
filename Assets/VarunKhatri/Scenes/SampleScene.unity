@@ -266,11 +266,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e6b8b64ec3ddd674fa3795521c9f1390, type: 3}
       propertyPath: m_LocalScale.x
-      value: 12.007209
+      value: 12.007212
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e6b8b64ec3ddd674fa3795521c9f1390, type: 3}
       propertyPath: m_LocalScale.y
-      value: 14.992794
+      value: 14.992795
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e6b8b64ec3ddd674fa3795521c9f1390, type: 3}
       propertyPath: m_LocalScale.z
@@ -352,7 +352,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e6b8b64ec3ddd674fa3795521c9f1390, type: 3}
       propertyPath: m_LocalScale.y
-      value: 11.994235
+      value: 11.994237
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e6b8b64ec3ddd674fa3795521c9f1390, type: 3}
       propertyPath: m_LocalScale.z
@@ -691,16 +691,20 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 94267034343436558, guid: bc72877efe5d4574f91cb8787cb0cbe0, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 94267034343436558, guid: bc72877efe5d4574f91cb8787cb0cbe0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.593
+      value: -6.662
       objectReference: {fileID: 0}
     - target: {fileID: 94267034343436558, guid: bc72877efe5d4574f91cb8787cb0cbe0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.094
+      value: 0.067999996
       objectReference: {fileID: 0}
     - target: {fileID: 94267034343436558, guid: bc72877efe5d4574f91cb8787cb0cbe0, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.072
+      value: -1.976
       objectReference: {fileID: 0}
     - target: {fileID: 94267034343436558, guid: bc72877efe5d4574f91cb8787cb0cbe0, type: 3}
       propertyPath: m_LocalRotation.w
@@ -733,6 +737,10 @@ PrefabInstance:
     - target: {fileID: 632218761148084228, guid: bc72877efe5d4574f91cb8787cb0cbe0, type: 3}
       propertyPath: m_Name
       value: Unbreakable_Hit
+      objectReference: {fileID: 0}
+    - target: {fileID: 6106916298985092957, guid: bc72877efe5d4574f91cb8787cb0cbe0, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
